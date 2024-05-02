@@ -1,1 +1,1 @@
-## 1. project for INC - Design of numerical systems
+## The project for INC - Design of numerical systems
